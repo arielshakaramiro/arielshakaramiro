@@ -54,5 +54,6 @@
 ![LangSmith](https://img.shields.io/badge/LangSmith-7FC8FF?style=for-the-badge&logoColor=black)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![Langflow](https://img.shields.io/badge/Langflow-000000?style=for-the-badge&logo=langflow&logoColor=white)
+![LangSmith](https://img.shields.io/badge/LangSmith-7FC8FF?style=for-the-badge&logoColor=black)
 
  
